@@ -63607,5 +63607,12 @@
     "author": "beauty",
     "description": "Create a local knowledge base and connect DeepSeek Harness, Claude Code, and Codex through global instructions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "baeauty/obsidian-ai-box"
+  },
+  {
+    "id": "kb-semantic-search",
+    "name": "知识库语义搜索",
+    "author": "huxiao",
+    "description": "Chinese semantic search inside Obsidian, backed by a local hybrid retrieval service (bge-small-zh vector + SQLite FTS5 full-text, RRF fusion). Desktop only: requires a locally running retrieval service on http://127.0.0.1:8765.",
+    "repo": "Xiao-HU1987/obsidian-kb-semantic-search"
   }
 ]
